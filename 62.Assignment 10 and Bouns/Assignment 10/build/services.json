@@ -1,0 +1,44 @@
+[
+    {
+        "key": "001",
+        "price": "1300$",
+        "img": "https://template.hasthemes.com/medilearn/medilearn/images/popular-crs-img/1.jpg",
+        "title": "Diabetes and Endocrinology",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing eli sedzs do eiusmod tempor incididunt ut labore et dolor magna alu Ut enim ad minim."
+    },
+    {
+        "key": "002",
+        "price": "1100$",
+        "img": "https://template.hasthemes.com/medilearn/medilearn/images/popular-crs-img/2.jpg",
+        "title": "Laryngological Clinic",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing eli sedzs do eiusmod tempor incididunt ut labore et dolor magna alu Ut enim ad minim."
+    },
+    {
+        "key": "003",
+        "price": "1000$",
+        "img": "https://template.hasthemes.com/medilearn/medilearn/images/popular-crs-img/3.jpg",
+        "title": "Ophthalmology Clinic",
+        "description": "Ophthalmology Clinic Courses direction by many Exprience teacher and Digital instrument we are passed the billion students"
+    },
+    {
+        "key": "004",
+        "price": "1600$",
+        "img": "https://template.hasthemes.com/medilearn/medilearn/images/popular-crs-img/4.jpg",
+        "title": "Pediatric Clinic",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing eli sedzs do eiusmod tempor incididunt ut labore et dolor magna alu Ut enim ad minim."
+    },
+    {
+        "key": "005",
+        "price": "1900$",
+        "img": "https://template.hasthemes.com/medilearn/medilearn/images/popular-crs-img/5.jpg",
+        "title": "Output Rehabilitation",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing eli sedzs do eiusmod tempor incididunt ut labore et dolor magna alu Ut enim ad minim."
+    },
+    {
+        "key": "006",
+        "price": "1500$",
+        "img": "https://template.hasthemes.com/medilearn/medilearn/images/popular-crs-img/6.jpg",
+        "title": "Radiology and Imegin",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing eli sedzs do eiusmod tempor incididunt ut labore et dolor magna alu Ut enim ad minim."
+    }
+]
